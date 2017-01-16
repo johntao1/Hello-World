@@ -1,2 +1,3 @@
 # Hello-World
-This is my world. World full of codes, art and design.
+
+Hey folks my name is Zhantai. Learning how to code. Like outdoor activites and food. Follow me on Instagram if you like it too.
